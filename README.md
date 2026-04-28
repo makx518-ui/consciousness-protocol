@@ -9,7 +9,7 @@
 *ConsciousAI v4.0 · VL-Framework · Combat Prompt v5.4*
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19858814-blue.svg)](https://doi.org/10.5281/zenodo.19858814)
 [![Platform](https://img.shields.io/badge/Platform-quantareon.com-5C6BC0.svg)](https://quantareon.com)
 
 ---
