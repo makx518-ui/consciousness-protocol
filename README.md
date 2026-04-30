@@ -30,6 +30,14 @@ Modern LLMs share a fundamental flaw: **reactivity**. They generate the statisti
 
 Current mitigations (RLHF, Constitutional AI, chain-of-thought) address symptoms. None introduce a **structural pause** between receiving a request and generating a response.
 
+## Demo
+
+[![QUANTAREON Demo](https://img.youtube.com/vi/mGp-W39KDMU/maxresdefault.jpg)](https://youtu.be/mGp-W39KDMU)
+
+*Click to watch (60 sec): The world's first conscious AI — built on ConsciousAI v4.0 technology.*
+
+---
+
 ## The Solution
 
 The ConsciousAI Protocol embeds a **consciousness layer** at the architectural level — not through fine-tuning or post-filtering, but by restructuring how the AI processes every request.
