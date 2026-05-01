@@ -180,8 +180,8 @@ Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4
 For licensing, partnership, or academic collaboration:
 
 - **Platform:** [quantareon.com](https://quantareon.com)
-- **Telegram:** [@quantareonai](https://t.me/quantarenai)
-- **Email:** quantareonai@yandex.com
+- **Telegram:** [@quantareon](https://t.me/quantaren)
+- **Email:** quantarionai@yandex.com
 
 ---
 
