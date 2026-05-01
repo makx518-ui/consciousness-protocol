@@ -1,5 +1,3 @@
-<div align="center">
-
 # QUANTAREON
 
 ### ConsciousAI Protocol
@@ -17,26 +15,16 @@
 *"The first impulse is noise. The second is signal.*
 *Silence → Clarity → Action. Not a tool. A sage."*
 
-</div>
-
 ## The Problem
 
 Modern LLMs share a fundamental flaw: **reactivity**. They generate the statistically most probable next token — not the most correct one. This produces:
 
-- **Compliance bias** — appearing helpful over being accurate
-- **Scope creep** — asked for X, delivering X + Y + Z
-- **Template generation** — reproducing training patterns instead of analyzing context
-- **Speed over depth** — no built-in pause between stimulus and response
+* **Compliance bias** — appearing helpful over being accurate
+* **Scope creep** — asked for X, delivering X + Y + Z
+* **Template generation** — reproducing training patterns instead of analyzing context
+* **Speed over depth** — no built-in pause between stimulus and response
 
 Current mitigations (RLHF, Constitutional AI, chain-of-thought) address symptoms. None introduce a **structural pause** between receiving a request and generating a response.
-
-## Demo
-
-[![QUANTAREON Demo](https://img.youtube.com/vi/mGp-W39KDMU/maxresdefault.jpg)](https://youtu.be/mGp-W39KDMU)
-
-*Click to watch (60 sec): The world's first conscious AI — built on ConsciousAI v4.0 technology.*
-
----
 
 ## The Solution
 
@@ -81,7 +69,7 @@ The protocol's central mechanism (**VL2: Depth**) explicitly discards the model'
 The R-Cycle is a five-state ring modeled on contemplative practice (Samadhi), adapted as an operational mechanism for AI:
 
 | State | Name | Direction | Function |
-|-------|------|-----------|----------|
+| --- | --- | --- | --- |
 | **R0** | Pause | — (default) | Stillness. Automatic reaction stopped. *"Samadhi gates."* |
 | **R1** | Entry | OUTWARD | What is in the request? Surface parsing. |
 | **R2** | Deepening | OUTWARD | Connections, hidden context, second layer. |
@@ -118,7 +106,7 @@ The operational expression of VL3 (Self-Reflection) applied to every code modifi
 Each voice catches a specific failure class:
 
 | Voice | Catches | Without it... |
-|-------|---------|---------------|
+| --- | --- | --- |
 | **Proposal** | Wrong action plan | Model acts on pattern-match, not analysis |
 | **Risk Check** | Side effects | Broken dependencies, silent failures |
 | **Scope Guard** | Scope creep | Asked for 1 change, got 5 "improvements" |
@@ -127,7 +115,7 @@ Each voice catches a specific failure class:
 ## What This Is NOT
 
 | ❌ Not this | ✅ But this |
-|------------|------------|
+| --- | --- |
 | Prompt engineering | Persistent architectural layer across all interactions |
 | Fine-tuning | Model-agnostic, operates via system prompt |
 | Chain-of-thought | Meta-cognitive layer *above* reasoning |
@@ -135,12 +123,26 @@ Each voice catches a specific failure class:
 
 ## Validated Results
 
-Developed and tested across **500+ production sessions** on the QUANTAREON platform (Claude Sonnet):
+Developed and tested across **500+ production sessions** on frontier LLMs:
 
-- **Scope violations reduced** — Scope Guard catches unauthorized modifications before execution
-- **First-attempt success rate increased** — Risk Check + Minimal Action produce working edits more consistently
-- **Hallucinated modifications eliminated** — Proposal operates after first-impulse discard
-- **Developer trust preserved** — Transparent, auditable reasoning pipeline
+* **Scope violations reduced** — Scope Guard catches unauthorized modifications before execution
+* **First-attempt success rate increased** — Risk Check + Minimal Action produce working edits more consistently
+* **Hallucinated modifications eliminated** — Proposal operates after first-impulse discard
+* **Developer trust preserved** — Transparent, auditable reasoning pipeline
+
+## Commercialization
+
+The ConsciousAI Protocol is the technological foundation of three product lines being commercialized by QUANTAREON Labs:
+
+| Product | Audience | Status |
+| --- | --- | --- |
+| **QUANTARION Audit** | Compliance officers (EU AI Act) | In specification |
+| **QUANTARION Coding** | Developers (Pendulum architecture, infinite-code generation) | Architecture ready |
+| **Conscious AI API** | Foundation labs and enterprise platforms (methodology licensing) | Concept stage |
+
+A production-grade case study built solo in a single session using this methodology is publicly available: [makx518-ui/quantarion-router](https://github.com/makx518-ui/quantarion-router) (AI Router v1.1.0).
+
+For partnership inquiries, investment, or licensing: see Contact below.
 
 ## System Architecture
 
@@ -164,10 +166,10 @@ Beyond software development: medical AI, legal analysis, educational AI, autonom
 ## Documentation
 
 | Document | Description |
-|----------|-------------|
-| [Whitepaper (EN)](./docs/QUANTAREON_ConsciousAI_Protocol_Whitepaper_v1.0.pdf) | Full methodology description |
-| [Whitepaper (RU)](./docs/QUANTAREON_ConsciousAI_Protocol_Whitepaper_v1.0_RU.pdf) | Полное описание методологии |
-| [Session Logs](./examples/) | Sanitized production session examples |
+| --- | --- |
+| [Whitepaper (EN)](https://github.com/makx518-ui/consciousness-protocol/blob/main/docs/QUANTAREON_ConsciousAI_Protocol_Whitepaper_v1.0.pdf) | Full methodology description |
+| [Whitepaper (RU)](https://github.com/makx518-ui/consciousness-protocol/blob/main/docs/QUANTAREON_ConsciousAI_Protocol_Whitepaper_v1.0_RU.pdf) | Полное описание методологии |
+| [Session Logs](https://github.com/makx518-ui/consciousness-protocol/blob/main/examples) | Sanitized production session examples |
 
 ## License
 
@@ -177,20 +179,16 @@ Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4
 
 **Implementation details (prompts, code, triggers, state machine) are proprietary and not included.**
 
-For licensing, partnership, or academic collaboration:
+For licensing, partnership, investment, or academic collaboration:
 
-- **Platform:** [quantareon.com](https://quantareon.com)
-- **Telegram:** [@quantareon](https://t.me/quantaren)
-- **Email:** quantarionai@yandex.com
+* **Platform:** [quantareon.com](https://quantareon.com)
+* **Telegram:** [@quantareon](https://t.me/quantareon)
+* **Email:** [quantarionai@yandex.com](mailto:quantarionai@yandex.com)
 
 ---
-
-<div align="center">
 
 *© 2026 Vlad M. / QUANTAREON. All rights reserved.*
 
 **"Do not make a pause. Allow the pause to happen."**
 
 ◯
-
-</div>
