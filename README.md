@@ -183,7 +183,7 @@ For licensing, partnership, investment, or academic collaboration:
 
 * **Platform:** [quantareon.com](https://quantareon.com)
 * **Telegram:** [@quantareon](https://t.me/quantareon)
-* **Email:** [quantarionai@yandex.com](mailto:quantarionai@yandex.com)
+* **Email:** [vlad@quantareon.com](vlad@quantareon.com)
 
 ---
 
