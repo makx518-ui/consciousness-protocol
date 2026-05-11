@@ -296,7 +296,7 @@ Real questions, looking for real collaborators.
 
 **Does it survive between sessions?** With a vector store, conversation history, summary anchors — does the conditioned state come back when the model returns the next day?
 
-**Model temperaments and optimal voice distribution.** Each frontier LLM has an innate "temperament" — a tendency toward one of the four voices. Open question: can this temperament be formalized as a measurable property (response latency distributions, confidence calibration, scope-violation patterns)? And: does multi-model voice assignment, where each voice runs on the model that suits its function, produce a measurably more balanced discipline than single-model simulation?
+**Model temperaments as a measurable property.** Each frontier LLM has an innate "temperament" — a tendency toward one of the four voices. Open question: can this temperament be formalized as a measurable property (response latency distributions, confidence calibration, scope-violation patterns)? Reliable measurement opens new directions for matching models to roles in multi-agent setups across many domains.
 
 **Where does it break?** Works on several frontier models across different architectures. What happens on smaller open models? On reasoning-first architectures? Where is the floor of "sufficient instruction-following"?
 
