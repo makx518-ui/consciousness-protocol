@@ -335,7 +335,7 @@ In each domain, the architecture — static identity layer + dynamic state machi
 
 | Document | Description |
 | --- | --- |
-| [Whitepaper](docs/QUANTAREON_ConsciousAI_Protocol_Whitepaper_v1.1.pdf) | Full methodology (11 pages) |
+| [Whitepaper](QUANTAREON_ConsciousAI_Protocol_Whitepaper_v1.1.pdf) | Full methodology (11 pages) |
 | [Session Logs](examples/session_log_example.md) | Sanitized production sessions with the 4-Voice pipeline |
 
 ## License
